@@ -1,2 +1,2 @@
 def some_func():
-  None
+  print("hello world")
