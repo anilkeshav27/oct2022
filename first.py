@@ -3,3 +3,6 @@ def some_func():
 
 def another_function():
     None
+
+ def another_function_1():
+    None
