@@ -1,4 +1,4 @@
-def some_func():
+def some_fu1c():
   print("hello world")
 
 def another_function():
